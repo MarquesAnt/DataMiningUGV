@@ -54,17 +54,8 @@ Ces résultats ouvrent la voie à la détection automatique d’incidents de pro
 
 L’OEE (Overall Equipment Efficiency) est estimé à partir de la durée totale des phases de coupe identifiées par clustering.
 
-𝑂
-𝐸
-𝐸
-=
-Temps d’usinage effectif
-Temps total de production
-OEE=
-Temps total de production
-Temps d’usinage effectif
-	​
-
+> **Formule :**  
+> OEE = (Temps d’usinage effectif) / (Temps total de production)
 
 Cette mesure, obtenue sans supervision, illustre la possibilité d’un monitoring intelligent de la performance machine à partir des seules données capteurs.
 
@@ -93,3 +84,4 @@ l’intégration de méthodes plus robustes (DBSCAN, Spectral Clustering),
 la réduction de dimension (PCA),
 
 et la mise en place d’une pipeline MLOps pour un suivi en temps réel.
+

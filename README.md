@@ -71,17 +71,12 @@ BIC / Elbow Method	Sélection du nombre optimal de clusters
 Ce projet illustre l’application de l’apprentissage non supervisé à un contexte industriel réel.
 Les résultats démontrent la capacité des approches de clustering à :
 
-détecter automatiquement les cycles de production,
-
-estimer la productivité,
-
-et fournir une base pour la surveillance prédictive de l’atelier.
+- détecter automatiquement les cycles de production, estimer la productivité, et fournir une base pour la surveillance prédictive de l’atelier.
 
 Des perspectives d’amélioration incluent :
 
-l’intégration de méthodes plus robustes (DBSCAN, Spectral Clustering),
+- l’intégration de méthodes plus robustes (DBSCAN, Spectral Clustering),
+- la réduction de dimension (PCA),
+- et la mise en place d’une pipeline MLOps pour un suivi en temps réel.
 
-la réduction de dimension (PCA),
-
-et la mise en place d’une pipeline MLOps pour un suivi en temps réel.
 
